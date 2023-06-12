@@ -1,8 +1,8 @@
 {
   "useSmtp": false,
-  "host": "smtp.gmail.com",
+  "host": "smtpout.secureserver.net",
   "port": 465,
-  "username": "syed92810@gmail.com",
-  "password": "Saqlain77",
-  "recipientEmail": "syed92810@gmail.com"
+  "username": "info@highlinehomedecor.com",
+  "password": "Access125",
+  "recipientEmail": "info@highlinehomedecor.com"
 }
