@@ -93,7 +93,7 @@ try {
         // 0 = off (for production use)
         // 1 = client messages
         // 2 = client and server messages
-        $mail->SMTPDebug = 0;
+        //$mail->SMTPDebug = 0;
 
         $mail->Debugoutput = 'html';
 
@@ -105,7 +105,7 @@ try {
 
         // Whether to use SMTP authentication
         $mail->SMTPAuth = true;
-        $mail->SMTPSecure = "ssl";
+        $mail->SMTPSecure = "tls";
 
         // Username to use for SMTP authentication
         $mail->Username = $formConfig['username'];
