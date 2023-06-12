@@ -1,7 +1,7 @@
 {
   "useSmtp": false,
   "host": "smtpout.secureserver.net",
-  "port": 465,
+  "port": 587,
   "username": "info@highlinehomedecor.com",
   "password": "Access125",
   "recipientEmail": "info@highlinehomedecor.com"
