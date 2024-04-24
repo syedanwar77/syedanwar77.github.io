@@ -2,7 +2,7 @@
 session_start();
 $con=mysqli_connect("localhost","root","","ecomm");
 define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/php/ecom/');
-define('SITE_PATH','http://localhost:8080/php/ecom/');
+define('SITE_PATH','https://github.com/syedanwar77/syedanwar77.github.io/blob/main/php/ecom/');
 
 define('INSTAMOJO_REDIRECT',SITE_PATH.'payment_complete.php');
 
